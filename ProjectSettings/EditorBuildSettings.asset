@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Town.unity
+    guid: 3c6ab6dbf98a4bd42b5f0a7b94f9be49
+  - enabled: 1
+    path: Assets/Scenes/Cave.unity
+    guid: 547ddf090848dcf489921f41932bdef1
+  - enabled: 1
+    path: Assets/Scenes/CountrySide.unity
+    guid: 4ff23f2a2c7283841aef6f03d87b7147
+  - enabled: 1
+    path: Assets/Scenes/Shop_1.unity
+    guid: 4a39070ba033c6b4a8fdb08416d71bc6
+  m_configObjects: {}
